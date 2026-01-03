@@ -1,0 +1,6 @@
+neural_style_transfer/
+│
+├── content.jpg        # my photo
+├── style.jpg          # painting/style image
+├── output.png         # generated image
+├── neural_style.py    # main code
